@@ -1,0 +1,1 @@
+This repository demonstrates a common closure issue in Javascript's `setTimeout` function used within a loop.  The example showcases how the loop variable's final value is captured, and the solution illustrates proper use of closures to achieve the intended behavior.  This is useful for understanding and avoiding common pitfalls in asynchronous programming with Javascript.
